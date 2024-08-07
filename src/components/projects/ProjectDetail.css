@@ -1,0 +1,21 @@
+/* src/components/projects/ProjectDetail.css */
+.project-detail {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .project-detail .project-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-detail h2 {
+    margin-top: 1rem;
+  }
+  
+  .project-detail p {
+    margin-top: 1rem;
+  }
+  
